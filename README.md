@@ -12,6 +12,8 @@ It consists of
 ## Optical flow 
 It is the pattern of apparent motion of objects, surfaces, and edges in a visual scene caused by the relative motion between an observer and a scene.Optical flow can also be defined as the distribution of apparent velocities of movement of brightness pattern in an image.
 
+![alt text](https://nanonets.com/blog/content/images/2019/04/single-object-tracking-using-optical-flow.gif)
+
 ## Dense Optical Flow
 Dense optical flow attempts to give you the flow all over the image - up to a flow vector per pixel.
 
