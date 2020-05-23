@@ -1,0 +1,6 @@
+You need car haarcascade, frontal face harcascade, full body haarcascade files
+beside that if you want to track any other items or body part like eye, ear, nose, hands etc
+you can dowmload in the link below:
+
+
+https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
